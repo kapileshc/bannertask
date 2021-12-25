@@ -1,0 +1,15 @@
+.m{
+    font-size: 18px;
+}
+.l{
+    font-size: 50px;
+    font-weight: bold;
+}
+@media screen and (max-width: 520px) {
+.l{
+    font-size: 30px;
+}
+.fas{
+    font-size: 50px;
+    }
+}
